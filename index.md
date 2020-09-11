@@ -1,6 +1,6 @@
 ## Welcome to my computational photography projects
 
-The projects are done in computational photography given by [Derek Hoiem](http://dhoiem.cs.illinois.edu/) in 2019 Fall. 
+The projects are done in the computational photography course given by [Derek Hoiem](http://dhoiem.cs.illinois.edu/) in 2019 Fall. 
 
 An app demo (powered by Flask and WebRTC) extended from the projects: https://randomlab.herokuapp.com/book/photolab
 
