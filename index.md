@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to my computational photography projects
 
-You can use the [editor on GitHub](https://github.com/skyrandomlab/photolab.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The projects are done in computational photography given by [Derek Hoiem](http://dhoiem.cs.illinois.edu/) in 2019 Fall. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+An app demo (powered by Flask and WebRTC) extended from the projects: https://randomlab.herokuapp.com/book/photolab
 
-### Markdown
+### Chapters
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Project 1: Hybrid Images](https://skyrandomlab.github.io/photolab.github.io/proj1/index.html)
 
-```markdown
-Syntax highlighted code block
+[Project 2: Image Quilting](https://skyrandomlab.github.io/photolab.github.io/proj2/index.html)
 
-# Header 1
-## Header 2
-### Header 3
+[Project 3: Gradient-Domain Fusion](https://skyrandomlab.github.io/photolab.github.io/proj3/index.html)
 
-- Bulleted
-- List
+[Project 4: Image-based Lighting](https://skyrandomlab.github.io/photolab.github.io/proj4/index.html)
 
-1. Numbered
-2. List
+[Project 5: Video Stitching and Processing](https://skyrandomlab.github.io/photolab.github.io/proj5/index.html)
 
-**Bold** and _Italic_ and `Code` text
+[Project X: 2.5D Live Holographic Teleconference (Real-time projection with occlusion)](https://skyrandomlab.github.io/photolab.github.io/final/index.html)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/skyrandomlab/photolab.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
